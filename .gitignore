@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.xlsx
+# 1_Dataset/Plaintext/  # Uncomment if you don't want to push 100MB of text files
